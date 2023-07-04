@@ -14,7 +14,7 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/luanheidercheidt/)
 
 ## Começando
 ### Pré-requisitos
-Para executar este projeto no modo de desenvolvimento, você precisará ter um ambiente básico para executar um React App, que pode ser encontrado[here.](https://reactjs.org/docs/getting-started.html)
+Para executar este projeto no modo de desenvolvimento, você precisará ter um ambiente básico para executar um React App, que pode ser encontrado [aqui.](https://reactjs.org/docs/getting-started.html)
 ### Instalando
 **Clonando este repositório**
 ```
